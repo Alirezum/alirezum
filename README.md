@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I design and ship dependable Python backend services — clean, well-tested, and built to scale. 🐍⚙️✅
+Always learning: excited to grow through mentorship, pair-programming, and hands-on projects. 📚🤝💡
 
 
 ## 🌐 Socials:
